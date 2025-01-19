@@ -1,2 +1,2 @@
 # EPICODE
-Reporitory that contains material, excercises and exams for the EIPCODE course of Data Analyst
+Repository that contains material, excercises and exams for the EPICODE course of Data Analyst
