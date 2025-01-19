@@ -1,2 +1,1 @@
-# EPICODE
-Repository that contains material, excercises and exams for the EPICODE course of Data Analyst
+This repository includes folders organized by the various modules of the course: Excel, SQL, Python, Google Looker, Power BI. 
