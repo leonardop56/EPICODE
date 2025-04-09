@@ -1,1 +1,1 @@
-Il *file Olist.pbix* contiene il rapporto in Power BI sull'e-commerce Olist.
+Il file *Olist.pbix* contiene il mio rapporto in Power BI sull'e-commerce Olist.
